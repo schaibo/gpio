@@ -1,0 +1,5 @@
+{"weatherinfo":{"city":"成都","cityid":"101270101","temp1":"9℃","temp2":"21℃","weather":"阴转多云","img1":"n2.gif","img2":"d1.gif","ptime":"18:00"}}
+<type 'dict'>
+res
+{u'city': u'\u6210\u90fd', u'ptime': u'18:00', u'cityid': u'101270101', u'temp2': u'21\u2103', u'temp1': u'9\u2103', u'weather': u'\u9634\u8f6c\u591a\u4e91', u'img2': u'd1.gif', u'img1': u'n2.gif'}
+Not Found!!
